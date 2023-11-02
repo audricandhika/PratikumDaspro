@@ -4,7 +4,7 @@ public class SoalArray4{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int[] a = new int[4];
+        int[] a = new int[8];
         double rata;
         int jumlah = 0;
 
